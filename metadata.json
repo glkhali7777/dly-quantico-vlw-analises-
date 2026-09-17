@@ -1,0 +1,6 @@
+{
+  "name": "Candlestick Vision 1m - AI Price Action Analyzer",
+  "description": "Financial computer vision and price action analyzer for 1m candlestick charts with real-time predictive overlay, trade probabilities, and OpenCV Python generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
